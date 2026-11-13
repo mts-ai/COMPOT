@@ -1,0 +1,9 @@
+# @package _global_
+defaults:
+  - override /model: llama3_8b
+  - override /method: svdllm
+  - override /evaluation: compot
+compression_ratio: 0.4
+project: COMPOT
+calib_root: ${oc.env:COMPOT_CALIB_ROOT,${repo_root}/calibration}/unsloth/Llama-3-8b
+run_dir: ${repo_root}/runs/Llama-3-8b/svdllm_cr04

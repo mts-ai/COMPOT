@@ -1,0 +1,5 @@
+COMPOT
+Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression
+
+Includes COMPOT, CoSpaDi and SVD-LLM baseline implementations.
+Licensed under Apache-2.0. Dependencies retain their own licenses.

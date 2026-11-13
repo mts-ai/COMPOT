@@ -1,0 +1,3 @@
+This tiny calibration fixture is for API smoke tests only. It is not a reproduction dataset.
+Many independent machine learning experiments need reproducible sampling of data.
+Numerical compatibility depends on the underlying checkpoints, tokenizers, and seeds.

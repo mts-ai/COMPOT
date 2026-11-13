@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use COMPOT, please cite our paper."
+title: "COMPOT: Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Makhov
+    given-names: Denis
+  - family-names: Shopkhoev
+    given-names: Dmitriy
+  - family-names: Zhussip
+    given-names: Magauiya
+  - family-names: Ali
+    given-names: Ammar
+  - family-names: Mohammad
+    given-names: Baher
+  - family-names: Lefkimmiatis
+    given-names: Stamatios
+url: "https://github.com/mts-ai/COMPOT"
+repository-code: "https://github.com/mts-ai/COMPOT"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "COMPOT: Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression"
+  authors:
+    - family-names: Makhov
+      given-names: Denis
+    - family-names: Shopkhoev
+      given-names: Dmitriy
+    - family-names: Zhussip
+      given-names: Magauiya
+    - family-names: Ali
+      given-names: Ammar
+    - family-names: Mohammad
+      given-names: Baher
+    - family-names: Lefkimmiatis
+      given-names: Stamatios
+  year: 2026
+  url: "https://arxiv.org/abs/2602.15200"

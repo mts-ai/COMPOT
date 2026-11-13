@@ -1,0 +1,9 @@
+# @package _global_
+defaults:
+  - override /model: llama32_1b
+  - override /method: compot
+  - override /evaluation: compot
+project: COMPOT
+compression_ratio: 0.3
+calib_root: ${oc.env:COMPOT_CALIB_ROOT,${repo_root}/calibration}/unsloth/Llama-3.2-1B
+run_dir: ${repo_root}/runs/Llama-3.2-1B/compot_original_cr03
